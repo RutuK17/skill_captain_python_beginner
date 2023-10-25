@@ -1,2 +1,2 @@
-x=input('Enter your fav pokemon: ')
+x = "Raichu"
 print("My favorite Pokemon is Pikachu.")
